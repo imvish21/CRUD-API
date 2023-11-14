@@ -1,6 +1,8 @@
 # CRUD-API
 REST API for CRUD Operations using Vanilla Node Js.
 
+# You can Create,Read,Update and Delete Movies with the help of this REST API.
+
 ## Available Scripts
 
 Install the node_modules:
